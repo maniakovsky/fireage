@@ -1,0 +1,277 @@
+    @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+    .v-image__image--contain {
+        width: 90px;
+    }
+
+    * {
+        font-family: "Montserrat", sans-serif;
+    }
+
+
+    #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        .container
+        div
+        header {
+        background-color: rgba(255, 187, 0, 0.74) !important;
+    }
+
+    .shop-richest-player {
+        background-color: rgba(7, 7, 7, 0.8) !important;
+    }
+
+
+    #app .v-main .v-main__wrap {
+        background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+            url("https://i.imgur.com/2VKCXHM.png");
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+
+    #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        .container
+        footer {
+        background-color: rgb(255, 168, 5) !important;
+    }
+
+    #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        .container
+        .justify-center
+        .products-card {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+
+    #app .v-main .products-card {
+        backdrop-filter: blur(8px);
+        border-top-left-radius: 24px;
+        border-top-right-radius: 24px;
+        border-bottom-left-radius: 24px;
+        border-bottom-right-radius: 24px;
+    }
+
+    .v-sheet {
+        box-shadow: 3px 3px 3px black !important;
+    }
+
+
+    #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        .container
+        .justify-center
+        .products-card
+        .row
+        .col-xl-4
+        .v-sheet {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+
+    .products-card .v-sheet {
+        border-top-left-radius: 24px;
+        border-top-right-radius: 24px;
+        border-bottom-left-radius: 24px;
+        border-bottom-right-radius: 24px;
+    }
+
+
+    #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        .container
+        .justify-center
+        .server-widget
+        .server-status-banner {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+
+    .justify-center .server-widget .server-status-banner {
+        backdrop-filter: blur(8px);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+
+    .v-sheet.v-card {
+    border-radius: 15px;
+    }
+
+
+    .justify-center .server-widget .shop-latest-payments {
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+
+
+    #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        .container
+        .justify-center
+        .server-widget
+        .shop-latest-payments {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+
+    #app div h1 {
+        text-shadow: rgba(255, 168, 5) 2px 2px 4px;
+    }
+
+
+    #app div header {
+        border-top-left-radius: 15px !important;
+        border-top-right-radius: 15px !important;
+        border-bottom-left-radius: 15px !important;
+        border-bottom-right-radius: 15px !important;
+        backdrop-filter: blur(8px);
+    }
+
+
+
+    #app .v-dialog__content--active .v-dialog--active > .v-sheet {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+
+    #app .v-dialog--active > .v-sheet {
+        backdrop-filter: blur(8px);
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+    }
+
+
+    #app
+        .v-dialog__content--active
+        .v-dialog--active
+        .v-sheet
+        .v-card__text
+        .container
+        .row
+        .col-md-3
+        .v-sheet {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+
+    #app
+        .v-dialog__content--active
+        .v-dialog--active
+        .v-sheet
+        .v-card__text
+        .container
+        .row
+        .col-md-9
+        .v-sheet {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+
+    #app
+        .v-dialog__content--active
+        .v-dialog--active
+        .v-sheet
+        .v-card__text
+        .container
+        .justify-center
+        .v-sheet {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+    #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        .container
+        div
+        .v-navigation-drawer--temporary {
+        background-color: rgba(255, 168, 5) !important;
+    }
+
+    .cookie-banner div .v-alert {
+        background-color: rgba(255, 168, 5);
+    }
+
+    .col {
+        opacity: 1;
+    }
+
+    #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        #app
+        .v-application--wrap
+        .v-main
+        .v-main__wrap
+        .container
+        footer {
+        background: none;
+        background-color: rgba(255, 168, 0) !important;
+    }
+    .v-btn__content {
+        color: white !important;
+    }
+    .v-alert.mt-1.v-sheet.theme--dark.elevation-2.v-alert--border.v-alert--border-top {
+        background-color: rgba(255, 168, 5) !important;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+
+    .theme--dark.v-card {
+        background-color: #15141400;
+    }
+
+    .v-slider__thumb-label {
+        color: #000;
+    }
